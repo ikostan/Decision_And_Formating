@@ -100,7 +100,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// Returns User name
         /// </summary>
         public static string GetName()
         {
