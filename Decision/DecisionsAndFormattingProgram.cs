@@ -83,7 +83,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// Prints the main menu
         /// </summary>
         private static void PrintMenu()
         {
