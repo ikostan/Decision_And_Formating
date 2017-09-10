@@ -1,3 +1,6 @@
 C:\Users\superadmin\Desktop\C#\DecisionAndFormating\Decision\bin\Debug\Decision.exe.config
 C:\Users\superadmin\Desktop\C#\DecisionAndFormating\Decision\obj\Debug\Decision.exe
 C:\Users\superadmin\Desktop\C#\DecisionAndFormating\Decision\obj\Debug\Decision.pdb
+C:\Users\superadmin\Desktop\C#\DecisionAndFormating\Decision\bin\Debug\Decision.exe
+C:\Users\superadmin\Desktop\C#\DecisionAndFormating\Decision\bin\Debug\Decision.pdb
+C:\Users\superadmin\Desktop\C#\DecisionAndFormating\Decision\obj\Debug\DecisionsAndFormatting.csprojResolveAssemblyReference.cache
