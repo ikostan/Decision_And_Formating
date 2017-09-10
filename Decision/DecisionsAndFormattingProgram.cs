@@ -111,7 +111,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// Set a new user name
         /// </summary>
         public static void SetName(String newName)
         {
@@ -122,7 +122,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// Get user input
         /// </summary>
         public static int GetUserInput()
         {
@@ -154,7 +154,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// Terminates application execution
         /// </summary>
         private static void StopExecution()
         {
