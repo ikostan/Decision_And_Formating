@@ -70,14 +70,6 @@ namespace Decision
                         break;
 
                     case 8:
-                        //
-                        break;
-
-                    case 9:
-                        //
-                        break;
-
-                    case 10:
                         //Exit
                         isTrue = false;
                         break;
@@ -105,16 +97,14 @@ namespace Decision
             Console.Beep();
             Console.Clear();
             Console.WriteLine("String Formatting Menu:\n");
-            Console.WriteLine("1) ");
-            Console.WriteLine("2) ");
-            Console.WriteLine("3) ");
-            Console.WriteLine("4) ");
-            Console.WriteLine("5) ");
-            Console.WriteLine("6) ");
-            Console.WriteLine("7) ");
-            Console.WriteLine("8) ");
-            Console.WriteLine("9) ");
-            Console.WriteLine("10) Back to Main Menu");
+            Console.WriteLine("1) Currency format");
+            Console.WriteLine("2) Decimal format");
+            Console.WriteLine("3) Exponential format");
+            Console.WriteLine("4) Fixed point format");
+            Console.WriteLine("5) General format");
+            Console.WriteLine("6) Basic integers with comas format");
+            Console.WriteLine("7) Hexadecimal format");
+            Console.WriteLine("8) Back to Main Menu");
         }
         #endregion
 
