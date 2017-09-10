@@ -28,7 +28,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// Start the new Game
         /// </summary>
         public void PlayTheGame()
         {
