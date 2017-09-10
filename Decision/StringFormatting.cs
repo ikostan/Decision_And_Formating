@@ -19,7 +19,6 @@ namespace Decision
         /// </summary>
         public StringFormatting()
         {
-
             Console.ForegroundColor = ConsoleColor.Green;
             Console.Title = TITLE;
         }
@@ -30,21 +29,10 @@ namespace Decision
         /// <summary>
         /// 
         /// </summary>
-        public void PlayTheGame()
+        public void RunApp()
         {
             Console.Clear();
             Console.WriteLine($"\nHello {DecisionsAndFormattingProgram.GetName()}. Let's do some formatting in C#!");
-            RunApp();
-        }
-        #endregion
-
-
-        #region
-        /// <summary>
-        /// 
-        /// </summary>
-        private  void RunApp()
-        {
             isTrue = true;
 
             do
@@ -110,7 +98,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// Print the menu
         /// </summary>
         private void PrintMenu()
         {

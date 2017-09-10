@@ -53,7 +53,7 @@ namespace Decision
                     case 2:
                         //StringFormatting
                         StringFormatting strFormat = new StringFormatting();
-                        strFormat.PlayTheGame();
+                        strFormat.RunApp();
                         break;
 
                     case 3:
