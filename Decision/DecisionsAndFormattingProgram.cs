@@ -31,7 +31,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// Starts main application
         /// </summary>
         private static void RunApp()
         {
