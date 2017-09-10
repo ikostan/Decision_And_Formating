@@ -109,7 +109,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// X or x – hexadecimal
         /// </summary>
         private void PrintHexDecimal(int dcmlNumber)
         {
@@ -129,7 +129,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// E or e – exponential
         /// </summary>
         private void PrintExponential(long number)
         {
@@ -149,7 +149,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// G or g – general (E, F, or G)
         /// </summary>
         private void PrintGeneral(long number)
         {
@@ -169,7 +169,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// C or c – currency
         /// </summary>
         private void PrinCurrency(double number)
         {
@@ -189,7 +189,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// F or f – fixed point
         /// </summary>
         private void PrintFixed(double number)
         {
@@ -209,7 +209,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// D or d – decimal
         /// </summary>
         private void PrinDecimal(int number)
         {
@@ -229,7 +229,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// N or n – basic integers with commas
         /// </summary>
         private void PrintValue(int number)
         {
