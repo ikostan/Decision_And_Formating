@@ -1,0 +1,9 @@
+C:\Users\superadmin\Desktop\Decision\Decision\bin\Debug\Decision.exe.config
+C:\Users\superadmin\Desktop\Decision\Decision\bin\Debug\Decision.exe
+C:\Users\superadmin\Desktop\Decision\Decision\bin\Debug\Decision.pdb
+C:\Users\superadmin\Desktop\Decision\Decision\obj\Debug\Decision.csprojResolveAssemblyReference.cache
+C:\Users\superadmin\Desktop\Decision\Decision\obj\Debug\Decision.exe
+C:\Users\superadmin\Desktop\Decision\Decision\obj\Debug\Decision.pdb
+C:\Users\superadmin\Documents\Visual Studio 2015\Projects\DecisionAndFormating\Decision\bin\Debug\Decision.exe.config
+C:\Users\superadmin\Documents\Visual Studio 2015\Projects\DecisionAndFormating\Decision\obj\Debug\Decision.exe
+C:\Users\superadmin\Documents\Visual Studio 2015\Projects\DecisionAndFormating\Decision\obj\Debug\Decision.pdb
