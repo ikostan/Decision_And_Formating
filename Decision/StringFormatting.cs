@@ -27,7 +27,7 @@ namespace Decision
 
         #region
         /// <summary>
-        /// 
+        /// Main method
         /// </summary>
         public void RunApp()
         {
