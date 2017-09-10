@@ -42,31 +42,38 @@ namespace Decision
                 switch (DecisionsAndFormattingProgram.GetUserInput())
                 {
                     case 1:
-                        //
+                        //Currency format
+
                         break;
 
                     case 2:
-                        //
+                        //Decimal format
+
                         break;
 
                     case 3:
-                        //
+                        //Exponential format
+
                         break;
 
                     case 4:
-                        //
+                        //Fixed point format
+
                         break;
 
                     case 5:
-                        //
+                        //General format
+
                         break;
 
                     case 6:
-                        //
+                        //Basic integers with comas format
+
                         break;
 
                     case 7:
-                        //
+                        //Hexadecimal format
+
                         break;
 
                     case 8:
